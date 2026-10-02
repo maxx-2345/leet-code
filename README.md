@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/maxx-2345/leet-code/tree/master/0001-two-sum) |
 | [1929-concatenation-of-array](https://github.com/maxx-2345/leet-code/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/maxx-2345/leet-code/tree/master/0344-reverse-string) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/maxx-2345/leet-code/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
